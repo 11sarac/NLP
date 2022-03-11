@@ -1,4 +1,7 @@
+参加百度飞桨---基于深度学习的自然语言处理训练营，学习文本语义相似度计算，文本信息识别、实体关系抽取、文本情感分析，检索式文本问答，机器翻译等课程，陆续整理输出学习笔记，现已更新如下：
+
 词向量：https://blog.csdn.net/qq_43123477/article/details/123299959?spm=1001.2014.3001.5501
 RNN、LSTM、Self-attention、Transformer ：https://blog.csdn.net/qq_43123477/article/details/123300452?spm=1001.2014.3001.5501
 预训练模型：https://blog.csdn.net/qq_43123477/article/details/123300506?spm=1001.2014.3001.5501
-更新中
+
+持续更新中......
