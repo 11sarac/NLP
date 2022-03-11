@@ -1,0 +1,4 @@
+词向量：https://blog.csdn.net/qq_43123477/article/details/123299959?spm=1001.2014.3001.5501
+RNN、LSTM、Self-attention、Transformer ：https://blog.csdn.net/qq_43123477/article/details/123300452?spm=1001.2014.3001.5501
+预训练模型：https://blog.csdn.net/qq_43123477/article/details/123300506?spm=1001.2014.3001.5501
+更新中
